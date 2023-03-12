@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ZeamartKasirApp\bin\Debug\ZeamartKasirApp.exe.config
+C:\Users\ASUS\source\repos\ZeamartKasirApp\bin\Debug\ZeamartKasirApp.exe
+C:\Users\ASUS\source\repos\ZeamartKasirApp\bin\Debug\ZeamartKasirApp.pdb
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.FormMenuUtama.resources
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.exe
+C:\Users\ASUS\source\repos\ZeamartKasirApp\obj\Debug\ZeamartKasirApp.pdb
